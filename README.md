@@ -5,3 +5,5 @@ I have been exploring the Solar System and writing some notes about it. So far I
 * Mars
 * Venus
 
+Not yet explored:
+* Jupyter
